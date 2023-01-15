@@ -1,4 +1,4 @@
-package com.example.demo.single_number
+package com.example.demo.array.single_number
 
 class Solution {
     fun singleNumber(nums: IntArray): Int {

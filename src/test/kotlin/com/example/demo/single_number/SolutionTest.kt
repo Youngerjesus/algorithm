@@ -1,5 +1,6 @@
 package com.example.demo.single_number
 
+import com.example.demo.array.single_number.Solution
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 

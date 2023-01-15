@@ -1,4 +1,4 @@
-package com.example.demo.majority_element
+package com.example.demo.divideConquer.majority_element
 
 class Solution {
     fun majorityElement(nums: IntArray): Int {

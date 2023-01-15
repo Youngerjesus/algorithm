@@ -1,5 +1,6 @@
 package com.example.demo.Unique_Paths
 
+import com.example.demo.dp.Unique_Paths.Solution
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test

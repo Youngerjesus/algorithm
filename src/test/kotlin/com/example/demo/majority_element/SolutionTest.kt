@@ -1,5 +1,6 @@
 package com.example.demo.majority_element
 
+import com.example.demo.divideConquer.majority_element.Solution
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 

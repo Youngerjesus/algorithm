@@ -1,5 +1,6 @@
 package com.example.demo.Find_First_and_Last_Position_of_Element_in_Sorted_Array
 
+import com.example.demo.binarySearch.Find_First_and_Last_Position_of_Element_in_Sorted_Array.Solution
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test

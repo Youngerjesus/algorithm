@@ -1,4 +1,4 @@
-package com.example.demo.Unique_Paths
+package com.example.demo.dp.Unique_Paths
 
 class Solution {
     lateinit var cache: Array<IntArray>
