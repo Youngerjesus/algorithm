@@ -1,4 +1,4 @@
-package com.example.demo.array.Minimum_Value_to_Get_Positive_Step_by_Step_Sum
+package com.example.demo.array.prefix_sum.Minimum_Value_to_Get_Positive_Step_by_Step_Sum
 
 class Solution {
 

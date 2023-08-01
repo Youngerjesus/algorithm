@@ -1,5 +1,6 @@
 package com.example.demo.array.Minimum_Value_to_Get_Positive_Step_by_Step_Sum
 
+import com.example.demo.array.prefix_sum.Minimum_Value_to_Get_Positive_Step_by_Step_Sum.Solution
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
