@@ -1,5 +1,6 @@
 package com.example.demo.linkedlist.Reversing_a_linked_list
 
+import com.example.demo.linkedlist.Reversing_a_linked_list.Maximum_Twin_Sum_of_a_linked_list.ListNode
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
@@ -13,9 +14,5 @@ class SolutionTest {
         head.next!!.next!!.next = ListNode(4)
         head.next!!.next!!.next!!.next = ListNode(5)
         head.next!!.next!!.next!!.next!!.next = ListNode(6)
-
-        val solution = Solution()
-        val swapPairs = solution.swapPairs(head)
-        println(swapPairs)
     }
 }
